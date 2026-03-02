@@ -1,7 +1,0 @@
-{
-  "recommendations": [
-    "pivotal.vscode-boot-dev-pack",
-    "vscjava.vscode-lombok",
-    "vscjava.vscode-java-pack"
-  ]
-}
